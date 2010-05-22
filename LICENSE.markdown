@@ -13,7 +13,7 @@ conditions are met:
 		the documentation and/or other materials provided with the
 		distribution.
 
-   * 	Neither the name of the Prototype2D nor the names of its contributors
+   * 	Neither the name of the LeraPrototype nor the names of its contributors
 		may be used to endorse or promote products derived from this
 		software without specific prior written permission.
 
