@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Execute The Demo In The Current Directory
+build/demo
