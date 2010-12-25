@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 		600 /* height */, 
 		16 /* bpp */,
 		false /* fullscreen */,
-		"LeraPrototype", /* title */
+		"LDPrototype", /* title */
 		16, /* Hz */
 		1, /* VSync */
 		0, /* Multisampling (0 == disabled) */

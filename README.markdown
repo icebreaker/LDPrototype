@@ -1,4 +1,4 @@
-### Lera Prototype
+### LD Prototype
 
 Copyright (c) 2010, Mihail Szabolcs
 

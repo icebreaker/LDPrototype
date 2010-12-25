@@ -1,5 +1,5 @@
--- LeraPrototype
-solution "LeraPrototype"
+-- LDPrototype
+solution "LDPrototype"
 	configurations { "Debug", "Release" }
 	location "build"
  
